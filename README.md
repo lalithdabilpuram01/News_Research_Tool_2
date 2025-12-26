@@ -68,13 +68,7 @@ pip install -r requirements.txt
 
 
 2. **Environment:** Add your `OPENAI_API_KEY` to a `.env` file.
-3. **Launch:** ```bash
+3. **Launch:**
+   ```bash
    streamlit run main.py
-```
-
-
-```
-
-
-
----
+    ```
